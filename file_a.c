@@ -5,6 +5,7 @@ void main()
     int a = ONE;
     printf(" Hello World \n");
     printf("\n File[%s] Line [%d] a = %d ", __FILE__, __LINE__, a);
+    printf(" TEsting in progress\n");
     return 1;
 }
 
